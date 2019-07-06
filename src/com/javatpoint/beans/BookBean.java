@@ -1,5 +1,7 @@
 package com.javatpoint.beans;
-
+/**
+Commit to Master branch
+**/
 public class BookBean {
 private String callno,name,author,publisher;
 private int quantity,issued;
